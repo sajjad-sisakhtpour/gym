@@ -61,7 +61,7 @@ Here are some screenshots of the project:
 
 ## Live Demo
 
-Check out the live demo of this project here: [Live Demo](https://your-demo-link.com)
+Check out the live demo of this project here: [Live Demo](https://sajjad-sisakhtpour.github.io/gym)
 
 ## Documentation
 
